@@ -133,6 +133,6 @@ function tester() {
     document.getElementById("output7").innerHTML = getSandwich("happy bread man with a plan bread")
     document.getElementById("output8").innerHTML = canBalance([1,0,6,7])
     document.getElementById("output9").innerHTML = countClumps([1,2,2,2,4,4,4,4,4,6,7,7,6,6])
-    document.getElementById("output10").innerHTML = evenlySpaced([6,9,3]);
+    document.getElementById("output10").innerHTML = evenlySpaced([9,10,11]);
 
 }
